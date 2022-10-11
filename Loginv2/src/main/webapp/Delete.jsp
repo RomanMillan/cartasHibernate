@@ -15,7 +15,9 @@
 		String userSesion = (String) sesion.getAttribute("user");
 		
 		
+		
 		if(isSesion != null && userSesion != null && isSesion.equals("true")){
+			
 			Login m = new Login();
 			String password = m.getPasswBD();
 			Card c = new Card(password); 

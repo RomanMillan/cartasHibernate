@@ -9,6 +9,9 @@
 	</head>
 	<body>
 		<img alt="ImgenError" src="geralSad.png">
-		<p>Error al insertar el usuario</p>
+		<p>Error al introducir el usuario</p>
+		<a href="Index.html">
+        <input type="button" value="Atras">
+    </a>
 	</body>
 </html>

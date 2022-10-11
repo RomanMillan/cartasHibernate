@@ -30,7 +30,6 @@
 				sesion.setAttribute("login","true");
 				sesion.setAttribute("user",user);
 				
-				
 		%>
 				<jsp:forward page="Main.jsp"></jsp:forward>
 		<% 
